@@ -3,3 +3,10 @@
     height: auto;
     padding-bottom: 15px;
 }
+
+.cc-cookies .cc-cookie-accept {
+    margin: 35px auto 0 !important;
+}
+.cc-cookies .inside {
+    font-size: 16px;
+}
